@@ -75,4 +75,3 @@ atlassian*
 /auth.json
 /CHANGELOG.md
 /SECURITY.md
-!/var/composer_home
